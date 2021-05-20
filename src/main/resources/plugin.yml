@@ -18,8 +18,5 @@ commands:
 depend:
   - ILibrary
 
-softdepend:
-  - PlaceholderAPI
-
 
 
