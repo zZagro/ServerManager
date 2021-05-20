@@ -1,0 +1,25 @@
+name: ServerManager
+version: 1.0
+main: eu.zzagro.servermanager.ServerManager
+authors: [ zZagro ]
+website: github.com/zzagro
+commands:
+  kick:
+  ban:
+  unban:
+  broadcast:
+    aliases:
+      - bc
+  help:
+  manager:
+  gm:
+  players:
+
+depend:
+  - ILibrary
+
+softdepend:
+  - PlaceholderAPI
+
+
+

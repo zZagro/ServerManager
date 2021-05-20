@@ -1,0 +1,21 @@
+PluginPrefix: '&6ServerManager &7>>'
+JoinMessage: ''
+QuitMessage: ''
+CustomHelpCommand: true
+HelpCommand:
+  pages: 2
+
+  page1:
+    - '&cSet you custom Help command!'
+    - '&cThis is the first page!'
+  page2:
+    - '&cYou can add more pages'
+
+Permissions:
+  Manager: 'servermanager.manager'
+  Ban: 'servermanager.ban'
+  Unban: 'servermanager.unban'
+  Kick: 'servermanager.kick'
+  Broadcast: 'servermanager.broadcast'
+  Gm: 'servermanager.gm'
+  PlayersGUI: 'servermanager.players'
