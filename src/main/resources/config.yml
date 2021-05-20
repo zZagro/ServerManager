@@ -18,4 +18,3 @@ Permissions:
   Kick: 'servermanager.kick'
   Broadcast: 'servermanager.broadcast'
   Gm: 'servermanager.gm'
-  PlayersGUI: 'servermanager.players'

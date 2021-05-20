@@ -94,11 +94,6 @@ public class ServerManager extends JavaPlugin {
             pm.addPermission(gm);
         }
 
-        Permission playersgui = new Permission(getConfig().getString("Permissions.PlayersGUI"));
-        if (!permissions.contains(playersgui)) {
-            pm.addPermission(playersgui);
-        }
-
         Permission manager = new Permission(getConfig().getString("Permissions.Manager"));
         if (!permissions.contains(manager)) {
             pm.addPermission(manager);

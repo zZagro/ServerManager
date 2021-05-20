@@ -13,7 +13,6 @@ commands:
   help:
   manager:
   gm:
-  players:
 
 depend:
   - ILibrary
